@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
+
+
+
 # Hi 👋, I'm Sajeda Begum
 
 ### Junior Full Stack Developer (MERN Stack)
