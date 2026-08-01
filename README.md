@@ -57,7 +57,15 @@ I enjoy turning ideas into real-world applications and continuously improving my
   <img src="https://skillicons.dev/icons?i=netlify" height="55" alt="Netlify" />
   <img src="https://skillicons.dev/icons?i=render" height="55" alt="Render" />
 </p>
+---
 
+## 🤖 AI Tools
+
+- **Antigravity** — AI-assisted development & coding
+- **Google Gemini** — AI development, research & problem solving
+- **ChatGPT** — Coding assistance, debugging, learning & problem solving
+
+---
 ---
 
 ## ⚡ Skills
