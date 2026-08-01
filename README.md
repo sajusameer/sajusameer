@@ -66,7 +66,6 @@ I enjoy turning ideas into real-world applications and continuously improving my
 - **ChatGPT** — Coding assistance, debugging, learning & problem solving
 
 ---
----
 
 ## ⚡ Skills
 
