@@ -201,14 +201,7 @@ I'm interested in opportunities where I can:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajusameer&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajusameer&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
